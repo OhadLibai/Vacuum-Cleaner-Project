@@ -4,7 +4,7 @@
  
 ---
 
-HOW to run the project:
+How to run the project:
 - the project has 3 makfile, 2 for algorithms and 1 for the simuation.
 - the main make file is linked to the others
 - the makefile has 3 targate
