@@ -1,0 +1,659 @@
+[INFO]    [PARSER]:    Parsing house: 1-niv house
+[INFO]    [PARSER]:    WWWWWWWWWWWWWWW
+[INFO]    [PARSER]:    WWWWWWWWWWWWWWW
+[INFO]    [PARSER]:    WW    8      WW
+[INFO]    [PARSER]:    WWW  W    W  WW
+[INFO]    [PARSER]:    WW W      2 WWW
+[INFO]    [PARSER]:    WW   6     4WWW
+[INFO]    [PARSER]:    WW        W  WW
+[INFO]    [PARSER]:    WW         W WW
+[INFO]    [PARSER]:    WW       3   WW
+[INFO]    [PARSER]:    WW           WW
+[INFO]    [PARSER]:    WW       5W4 WW
+[INFO]    [PARSER]:    WW  D     7  WW
+[INFO]    [PARSER]:    WWW  W       WW
+[INFO]    [PARSER]:    WW       W   WW
+[INFO]    [PARSER]:    WWWWWWWWWWWWWWW
+[INFO]    [PARSER]:    WWWWWWWWWWWWWWW
+[INFO]    [PARSER]:    House layout parsed
+[INFO]    [PARSER]:    Docking station at: (0,0)
+[INFO]    [PARSER]:    Dirty at: (6,-7) with level: 2
+[INFO]    [PARSER]:    Dirty at: (7,-6) with level: 4
+[INFO]    [PARSER]:    Dirty at: (1,-6) with level: 6
+[INFO]    [PARSER]:    Dirty at: (5,-3) with level: 3
+[INFO]    [PARSER]:    Dirty at: (5,-1) with level: 5
+[INFO]    [PARSER]:    Dirty at: (2,-9) with level: 8
+[INFO]    [PARSER]:    Dirty at: (7,-1) with level: 4
+[INFO]    [PARSER]:    Dirty at: (6,0) with level: 7
+[INFO]    [PARSER]:    Wall at: (9,-1)
+[INFO]    [PARSER]:    Wall at: (-1,4)
+[INFO]    [PARSER]:    Wall at: (5,3)
+[INFO]    [PARSER]:    Wall at: (1,1)
+[INFO]    [PARSER]:    Wall at: (-3,-1)
+[INFO]    [PARSER]:    Wall at: (9,-2)
+[INFO]    [PARSER]:    Wall at: (-3,4)
+[INFO]    [PARSER]:    Wall at: (3,3)
+[INFO]    [PARSER]:    Wall at: (-3,-4)
+[INFO]    [PARSER]:    Wall at: (9,-10)
+[INFO]    [PARSER]:    Wall at: (-3,3)
+[INFO]    [PARSER]:    Wall at: (9,-7)
+[INFO]    [PARSER]:    Wall at: (9,1)
+[INFO]    [PARSER]:    Wall at: (3,4)
+[INFO]    [PARSER]:    Wall at: (-3,-5)
+[INFO]    [PARSER]:    Wall at: (-1,3)
+[INFO]    [PARSER]:    Wall at: (-3,2)
+[INFO]    [PARSER]:    Wall at: (9,-8)
+[INFO]    [PARSER]:    Wall at: (9,0)
+[INFO]    [PARSER]:    Wall at: (1,4)
+[INFO]    [PARSER]:    Wall at: (-3,-6)
+[INFO]    [PARSER]:    Wall at: (-3,1)
+[INFO]    [PARSER]:    Wall at: (5,2)
+[INFO]    [PARSER]:    Wall at: (-3,-2)
+[INFO]    [PARSER]:    Wall at: (7,3)
+[INFO]    [PARSER]:    Wall at: (9,4)
+[INFO]    [PARSER]:    Wall at: (7,-4)
+[INFO]    [PARSER]:    Wall at: (9,-5)
+[INFO]    [PARSER]:    Wall at: (9,3)
+[INFO]    [PARSER]:    Wall at: (7,4)
+[INFO]    [PARSER]:    Wall at: (-3,-7)
+[INFO]    [PARSER]:    Wall at: (7,-10)
+[INFO]    [PARSER]:    Wall at: (1,-11)
+[INFO]    [PARSER]:    Wall at: (10,-1)
+[INFO]    [PARSER]:    Wall at: (-4,4)
+[INFO]    [PARSER]:    Wall at: (10,3)
+[INFO]    [PARSER]:    Wall at: (4,4)
+[INFO]    [PARSER]:    Wall at: (-4,-8)
+[INFO]    [PARSER]:    Wall at: (5,-10)
+[INFO]    [PARSER]:    Wall at: (3,-11)
+[INFO]    [PARSER]:    Wall at: (3,-10)
+[INFO]    [PARSER]:    Wall at: (5,-11)
+[INFO]    [PARSER]:    Wall at: (0,4)
+[INFO]    [PARSER]:    Wall at: (10,1)
+[INFO]    [PARSER]:    Wall at: (-4,-6)
+[INFO]    [PARSER]:    Wall at: (-4,-7)
+[INFO]    [PARSER]:    Wall at: (6,4)
+[INFO]    [PARSER]:    Wall at: (10,2)
+[INFO]    [PARSER]:    Wall at: (8,3)
+[INFO]    [PARSER]:    Wall at: (-2,-8)
+[INFO]    [PARSER]:    Wall at: (7,-11)
+[INFO]    [PARSER]:    Wall at: (1,-10)
+[INFO]    [PARSER]:    Wall at: (-4,-9)
+[INFO]    [PARSER]:    Wall at: (-2,-10)
+[INFO]    [PARSER]:    Wall at: (10,-8)
+[INFO]    [PARSER]:    Wall at: (-4,3)
+[INFO]    [PARSER]:    Wall at: (8,-7)
+[INFO]    [PARSER]:    Wall at: (-1,-11)
+[INFO]    [PARSER]:    Wall at: (10,-11)
+[INFO]    [PARSER]:    Wall at: (2,4)
+[INFO]    [PARSER]:    Wall at: (10,0)
+[INFO]    [PARSER]:    Wall at: (-4,-5)
+[INFO]    [PARSER]:    Wall at: (-2,3)
+[INFO]    [PARSER]:    Wall at: (6,-1)
+[INFO]    [PARSER]:    Wall at: (10,-7)
+[INFO]    [PARSER]:    Wall at: (-4,2)
+[INFO]    [PARSER]:    Wall at: (8,-10)
+[INFO]    [PARSER]:    Wall at: (10,-9)
+[INFO]    [PARSER]:    Wall at: (-2,1)
+[INFO]    [PARSER]:    Wall at: (10,-5)
+[INFO]    [PARSER]:    Wall at: (-4,0)
+[INFO]    [PARSER]:    Wall at: (8,-6)
+[INFO]    [PARSER]:    Wall at: (8,-11)
+[INFO]    [PARSER]:    Wall at: (6,-10)
+[INFO]    [PARSER]:    Wall at: (0,-11)
+[INFO]    [PARSER]:    Wall at: (4,3)
+[INFO]    [PARSER]:    Wall at: (-4,-1)
+[INFO]    [PARSER]:    Wall at: (10,4)
+[INFO]    [PARSER]:    Wall at: (-3,0)
+[INFO]    [PARSER]:    Wall at: (9,-6)
+[INFO]    [PARSER]:    Wall at: (4,-10)
+[INFO]    [PARSER]:    Wall at: (2,-11)
+[INFO]    [PARSER]:    Wall at: (6,3)
+[INFO]    [PARSER]:    Wall at: (8,4)
+[INFO]    [PARSER]:    Wall at: (-4,1)
+[INFO]    [PARSER]:    Wall at: (10,-6)
+[INFO]    [PARSER]:    Wall at: (-4,-2)
+[INFO]    [PARSER]:    Wall at: (9,-11)
+[INFO]    [PARSER]:    Wall at: (4,-11)
+[INFO]    [PARSER]:    Wall at: (2,-10)
+[INFO]    [PARSER]:    Wall at: (0,3)
+[INFO]    [PARSER]:    Wall at: (-4,-3)
+[INFO]    [PARSER]:    Wall at: (6,-11)
+[INFO]    [PARSER]:    Wall at: (0,-10)
+[INFO]    [PARSER]:    Wall at: (2,3)
+[INFO]    [PARSER]:    Wall at: (-4,-4)
+[INFO]    [PARSER]:    Wall at: (10,-10)
+[INFO]    [PARSER]:    Wall at: (-2,4)
+[INFO]    [PARSER]:    Wall at: (10,-2)
+[INFO]    [PARSER]:    Wall at: (6,-8)
+[INFO]    [PARSER]:    Wall at: (9,-9)
+[INFO]    [PARSER]:    Wall at: (1,3)
+[INFO]    [PARSER]:    Wall at: (-3,-3)
+[INFO]    [PARSER]:    Wall at: (-3,-11)
+[INFO]    [PARSER]:    Wall at: (1,-8)
+[INFO]    [PARSER]:    Wall at: (9,-4)
+[INFO]    [PARSER]:    Wall at: (-3,-10)
+[INFO]    [PARSER]:    Wall at: (10,-4)
+[INFO]    [PARSER]:    Wall at: (-4,-10)
+[INFO]    [PARSER]:    Wall at: (-2,-11)
+[INFO]    [PARSER]:    Wall at: (-4,-11)
+[INFO]    [PARSER]:    Wall at: (-3,-9)
+[INFO]    [PARSER]:    Wall at: (-1,-10)
+[INFO]    [PARSER]:    Wall at: (9,-3)
+[INFO]    [PARSER]:    Wall at: (10,-3)
+[INFO]    [PARSER]:    Wall at: (6,-5)
+[INFO]    [PARSER]:    Wall at: (9,2)
+[INFO]    [PARSER]:    Wall at: (5,4)
+[INFO]    [PARSER]:    Wall at: (-1,-7)
+[INFO]    [PARSER]:    Wall at: (-3,-8)
+[INFO]    [SIMULATOR]: 
+
+ --- STARTING THE SIMULATION --- 
+
+[INFO]    [SIMULATOR]: Current position is: (0,0) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 1
+[INFO]    [SIMULATOR]: Current position is: (0,1) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 2
+[INFO]    [SIMULATOR]: Current position is: (0,2) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 3
+[INFO]    [SIMULATOR]: Current position is: (1,2) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 4
+[INFO]    [SIMULATOR]: Current position is: (2,2) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 5
+[INFO]    [SIMULATOR]: Current position is: (3,2) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 6
+[INFO]    [SIMULATOR]: Current position is: (4,2) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 7
+[INFO]    [SIMULATOR]: Current position is: (4,1) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 8
+[INFO]    [SIMULATOR]: Current position is: (5,1) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 9
+[INFO]    [SIMULATOR]: Current position is: (6,1) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 10
+[INFO]    [SIMULATOR]: Current position is: (6,2) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 11
+[INFO]    [SIMULATOR]: Current position is: (7,2) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 12
+[INFO]    [SIMULATOR]: Current position is: (8,2) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 13
+[INFO]    [SIMULATOR]: Current position is: (8,1) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 14
+[INFO]    [SIMULATOR]: Current position is: (8,0) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 15
+[INFO]    [SIMULATOR]: Current position is: (8,-1) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 16
+[INFO]    [SIMULATOR]: Current position is: (8,-2) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 17
+[INFO]    [SIMULATOR]: Current position is: (8,-3) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 18
+[INFO]    [SIMULATOR]: Current position is: (8,-4) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 19
+[INFO]    [SIMULATOR]: Current position is: (8,-5) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 20
+[INFO]    [SIMULATOR]: Current position is: (7,-5) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 21
+[INFO]    [SIMULATOR]: Current position is: (7,-6) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 22
+[INFO]    [SIMULATOR]: Cleaning (7,-6)
+[INFO]    [SIMULATOR]: We performed: 104 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (7,-6) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 23
+[INFO]    [SIMULATOR]: Cleaning (7,-6)
+[INFO]    [SIMULATOR]: We performed: 105 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (7,-6) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 24
+[INFO]    [SIMULATOR]: Cleaning (7,-6)
+[INFO]    [SIMULATOR]: We performed: 106 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (7,-6) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 25
+[INFO]    [SIMULATOR]: Cleaning (7,-6)
+[INFO]    [SIMULATOR]: We performed: 107 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (7,-6) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 26
+[INFO]    [SIMULATOR]: Current position is: (7,-7) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 27
+[INFO]    [SIMULATOR]: Current position is: (7,-8) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 28
+[INFO]    [SIMULATOR]: Current position is: (8,-8) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 29
+[INFO]    [SIMULATOR]: Current position is: (8,-9) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 30
+[INFO]    [SIMULATOR]: Current position is: (7,-9) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 31
+[INFO]    [SIMULATOR]: Current position is: (6,-9) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 32
+[INFO]    [SIMULATOR]: Current position is: (5,-9) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 33
+[INFO]    [SIMULATOR]: Current position is: (5,-8) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 34
+[INFO]    [SIMULATOR]: Current position is: (5,-7) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 35
+[INFO]    [SIMULATOR]: Current position is: (5,-6) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 36
+[INFO]    [SIMULATOR]: Current position is: (5,-5) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 37
+[INFO]    [SIMULATOR]: Current position is: (5,-4) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 38
+[INFO]    [SIMULATOR]: Current position is: (5,-3) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 39
+[INFO]    [SIMULATOR]: Cleaning (5,-3)
+[INFO]    [SIMULATOR]: We performed: 108 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (5,-3) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 40
+[INFO]    [SIMULATOR]: Cleaning (5,-3)
+[INFO]    [SIMULATOR]: We performed: 109 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (5,-3) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 41
+[INFO]    [SIMULATOR]: Cleaning (5,-3)
+[INFO]    [SIMULATOR]: We performed: 110 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (5,-3) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 42
+[INFO]    [SIMULATOR]: Current position is: (5,-4) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 43
+[INFO]    [SIMULATOR]: Current position is: (5,-5) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 44
+[INFO]    [SIMULATOR]: Current position is: (5,-6) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 45
+[INFO]    [SIMULATOR]: Current position is: (6,-6) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 46
+[INFO]    [SIMULATOR]: Current position is: (7,-6) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 47
+[INFO]    [SIMULATOR]: Current position is: (7,-5) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 48
+[INFO]    [SIMULATOR]: Current position is: (8,-5) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 49
+[INFO]    [SIMULATOR]: Current position is: (8,-4) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 50
+[INFO]    [SIMULATOR]: Current position is: (8,-3) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 51
+[INFO]    [SIMULATOR]: Current position is: (8,-2) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 52
+[INFO]    [SIMULATOR]: Current position is: (8,-1) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 53
+[INFO]    [SIMULATOR]: Current position is: (8,0) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 54
+[INFO]    [SIMULATOR]: Current position is: (8,1) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 55
+[INFO]    [SIMULATOR]: Current position is: (7,1) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 56
+[INFO]    [SIMULATOR]: Current position is: (6,1) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 57
+[INFO]    [SIMULATOR]: Current position is: (5,1) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 58
+[INFO]    [SIMULATOR]: Current position is: (4,1) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 59
+[INFO]    [SIMULATOR]: Current position is: (4,2) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 60
+[INFO]    [SIMULATOR]: Current position is: (3,2) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 61
+[INFO]    [SIMULATOR]: Current position is: (2,2) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 62
+[INFO]    [SIMULATOR]: Current position is: (1,2) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 63
+[INFO]    [SIMULATOR]: Current position is: (0,2) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 64
+[INFO]    [SIMULATOR]: Current position is: (0,1) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 65
+[INFO]    [SIMULATOR]: Current position is: (0,0) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 66
+[INFO]    [SIMULATOR]: Current position is: (0,0) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 67
+[INFO]    [SIMULATOR]: Current position is: (0,0) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 68
+[INFO]    [SIMULATOR]: Current position is: (0,0) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 69
+[INFO]    [SIMULATOR]: Current position is: (0,0) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 70
+[INFO]    [SIMULATOR]: Current position is: (0,0) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 71
+[INFO]    [SIMULATOR]: Current position is: (0,0) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 72
+[INFO]    [SIMULATOR]: Current position is: (1,0) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 73
+[INFO]    [SIMULATOR]: Current position is: (2,0) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 74
+[INFO]    [SIMULATOR]: Current position is: (2,1) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 75
+[INFO]    [SIMULATOR]: Current position is: (3,1) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 76
+[INFO]    [SIMULATOR]: Current position is: (3,0) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 77
+[INFO]    [SIMULATOR]: Current position is: (4,0) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 78
+[INFO]    [SIMULATOR]: Current position is: (5,0) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 79
+[INFO]    [SIMULATOR]: Current position is: (6,0) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 80
+[INFO]    [SIMULATOR]: Cleaning (6,0)
+[INFO]    [SIMULATOR]: We performed: 111 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (6,0) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 81
+[INFO]    [SIMULATOR]: Cleaning (6,0)
+[INFO]    [SIMULATOR]: We performed: 112 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (6,0) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 82
+[INFO]    [SIMULATOR]: Cleaning (6,0)
+[INFO]    [SIMULATOR]: We performed: 113 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (6,0) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 83
+[INFO]    [SIMULATOR]: Cleaning (6,0)
+[INFO]    [SIMULATOR]: We performed: 114 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (6,0) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 84
+[INFO]    [SIMULATOR]: Cleaning (6,0)
+[INFO]    [SIMULATOR]: We performed: 115 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (6,0) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 85
+[INFO]    [SIMULATOR]: Cleaning (6,0)
+[INFO]    [SIMULATOR]: We performed: 116 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (6,0) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 86
+[INFO]    [SIMULATOR]: Cleaning (6,0)
+[INFO]    [SIMULATOR]: We performed: 117 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (6,0) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 87
+[INFO]    [SIMULATOR]: Current position is: (7,0) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 88
+[INFO]    [SIMULATOR]: Current position is: (7,1) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 89
+[INFO]    [SIMULATOR]: Current position is: (7,0) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 90
+[INFO]    [SIMULATOR]: Current position is: (7,-1) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 91
+[INFO]    [SIMULATOR]: Cleaning (7,-1)
+[INFO]    [SIMULATOR]: We performed: 118 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (7,-1) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 92
+[INFO]    [SIMULATOR]: Cleaning (7,-1)
+[INFO]    [SIMULATOR]: We performed: 119 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (7,-1) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 93
+[INFO]    [SIMULATOR]: Cleaning (7,-1)
+[INFO]    [SIMULATOR]: We performed: 120 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (7,-1) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 94
+[INFO]    [SIMULATOR]: Cleaning (7,-1)
+[INFO]    [SIMULATOR]: We performed: 121 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (7,-1) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 95
+[INFO]    [SIMULATOR]: Current position is: (7,-2) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 96
+[INFO]    [SIMULATOR]: Current position is: (7,-3) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 97
+[INFO]    [SIMULATOR]: Current position is: (6,-3) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 98
+[INFO]    [SIMULATOR]: Current position is: (6,-2) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 99
+[INFO]    [SIMULATOR]: Current position is: (5,-2) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 100
+[INFO]    [SIMULATOR]: Current position is: (5,-1) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 101
+[INFO]    [SIMULATOR]: Cleaning (5,-1)
+[INFO]    [SIMULATOR]: We performed: 122 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (5,-1) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 102
+[INFO]    [SIMULATOR]: Cleaning (5,-1)
+[INFO]    [SIMULATOR]: We performed: 123 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (5,-1) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 103
+[INFO]    [SIMULATOR]: Cleaning (5,-1)
+[INFO]    [SIMULATOR]: We performed: 124 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (5,-1) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 104
+[INFO]    [SIMULATOR]: Cleaning (5,-1)
+[INFO]    [SIMULATOR]: We performed: 125 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (5,-1) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 105
+[INFO]    [SIMULATOR]: Cleaning (5,-1)
+[INFO]    [SIMULATOR]: We performed: 126 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (5,-1) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 106
+[INFO]    [SIMULATOR]: Current position is: (4,-1) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 107
+[INFO]    [SIMULATOR]: Current position is: (4,-2) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 108
+[INFO]    [SIMULATOR]: Current position is: (4,-3) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 109
+[INFO]    [SIMULATOR]: Current position is: (4,-4) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 110
+[INFO]    [SIMULATOR]: Current position is: (4,-5) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 111
+[INFO]    [SIMULATOR]: Current position is: (4,-6) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 112
+[INFO]    [SIMULATOR]: Current position is: (4,-7) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 113
+[INFO]    [SIMULATOR]: Current position is: (4,-8) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 114
+[INFO]    [SIMULATOR]: Current position is: (4,-9) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 115
+[INFO]    [SIMULATOR]: Current position is: (3,-9) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 116
+[INFO]    [SIMULATOR]: Current position is: (3,-8) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 117
+[INFO]    [SIMULATOR]: Current position is: (3,-7) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 118
+[INFO]    [SIMULATOR]: Current position is: (3,-6) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 119
+[INFO]    [SIMULATOR]: Current position is: (3,-5) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 120
+[INFO]    [SIMULATOR]: Current position is: (3,-4) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 121
+[INFO]    [SIMULATOR]: Current position is: (3,-3) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 122
+[INFO]    [SIMULATOR]: Current position is: (3,-2) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 123
+[INFO]    [SIMULATOR]: Current position is: (3,-1) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 124
+[INFO]    [SIMULATOR]: Current position is: (2,-1) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 125
+[INFO]    [SIMULATOR]: Current position is: (2,-2) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 126
+[INFO]    [SIMULATOR]: Current position is: (2,-3) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 127
+[INFO]    [SIMULATOR]: Current position is: (2,-4) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 128
+[INFO]    [SIMULATOR]: Current position is: (2,-5) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 129
+[INFO]    [SIMULATOR]: Current position is: (2,-6) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 130
+[INFO]    [SIMULATOR]: Current position is: (2,-5) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 131
+[INFO]    [SIMULATOR]: Current position is: (2,-4) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 132
+[INFO]    [SIMULATOR]: Current position is: (2,-3) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 133
+[INFO]    [SIMULATOR]: Current position is: (2,-2) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 134
+[INFO]    [SIMULATOR]: Current position is: (2,-1) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 135
+[INFO]    [SIMULATOR]: Current position is: (2,0) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 136
+[INFO]    [SIMULATOR]: Current position is: (1,0) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 137
+[INFO]    [SIMULATOR]: Current position is: (0,0) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 138
+[INFO]    [SIMULATOR]: Current position is: (0,0) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 139
+[INFO]    [SIMULATOR]: Current position is: (0,0) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 140
+[INFO]    [SIMULATOR]: Current position is: (0,0) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 141
+[INFO]    [SIMULATOR]: Current position is: (0,0) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 142
+[INFO]    [SIMULATOR]: Current position is: (0,0) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 143
+[INFO]    [SIMULATOR]: Current position is: (0,0) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 144
+[INFO]    [SIMULATOR]: Current position is: (0,-1) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 145
+[INFO]    [SIMULATOR]: Current position is: (1,-1) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 146
+[INFO]    [SIMULATOR]: Current position is: (1,-2) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 147
+[INFO]    [SIMULATOR]: Current position is: (1,-3) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 148
+[INFO]    [SIMULATOR]: Current position is: (1,-4) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 149
+[INFO]    [SIMULATOR]: Current position is: (1,-5) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 150
+[INFO]    [SIMULATOR]: Current position is: (1,-6) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 151
+[INFO]    [SIMULATOR]: Cleaning (1,-6)
+[INFO]    [SIMULATOR]: We performed: 127 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (1,-6) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 152
+[INFO]    [SIMULATOR]: Cleaning (1,-6)
+[INFO]    [SIMULATOR]: We performed: 128 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (1,-6) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 153
+[INFO]    [SIMULATOR]: Cleaning (1,-6)
+[INFO]    [SIMULATOR]: We performed: 129 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (1,-6) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 154
+[INFO]    [SIMULATOR]: Cleaning (1,-6)
+[INFO]    [SIMULATOR]: We performed: 130 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (1,-6) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 155
+[INFO]    [SIMULATOR]: Cleaning (1,-6)
+[INFO]    [SIMULATOR]: We performed: 131 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (1,-6) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 156
+[INFO]    [SIMULATOR]: Cleaning (1,-6)
+[INFO]    [SIMULATOR]: We performed: 132 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (1,-6) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 157
+[INFO]    [SIMULATOR]: Current position is: (1,-7) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 158
+[INFO]    [SIMULATOR]: Current position is: (2,-7) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 159
+[INFO]    [SIMULATOR]: Current position is: (2,-8) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 160
+[INFO]    [SIMULATOR]: Current position is: (2,-9) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 161
+[INFO]    [SIMULATOR]: Cleaning (2,-9)
+[INFO]    [SIMULATOR]: We performed: 133 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (2,-9) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 162
+[INFO]    [SIMULATOR]: Cleaning (2,-9)
+[INFO]    [SIMULATOR]: We performed: 134 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (2,-9) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 163
+[INFO]    [SIMULATOR]: Cleaning (2,-9)
+[INFO]    [SIMULATOR]: We performed: 135 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (2,-9) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 164
+[INFO]    [SIMULATOR]: Cleaning (2,-9)
+[INFO]    [SIMULATOR]: We performed: 136 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (2,-9) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 165
+[INFO]    [SIMULATOR]: Cleaning (2,-9)
+[INFO]    [SIMULATOR]: We performed: 137 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (2,-9) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 166
+[INFO]    [SIMULATOR]: Cleaning (2,-9)
+[INFO]    [SIMULATOR]: We performed: 138 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (2,-9) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 167
+[INFO]    [SIMULATOR]: Cleaning (2,-9)
+[INFO]    [SIMULATOR]: We performed: 139 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (2,-9) and chosen step is: s
+[INFO]    [SIMULATOR]: This is step number: 168
+[INFO]    [SIMULATOR]: Cleaning (2,-9)
+[INFO]    [SIMULATOR]: We performed: 140 cleaning spot steps already
+[INFO]    [SIMULATOR]: Current position is: (2,-9) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 169
+[INFO]    [SIMULATOR]: Current position is: (1,-9) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 170
+[INFO]    [SIMULATOR]: Current position is: (0,-9) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 171
+[INFO]    [SIMULATOR]: Current position is: (0,-8) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 172
+[INFO]    [SIMULATOR]: Current position is: (0,-7) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 173
+[INFO]    [SIMULATOR]: Current position is: (0,-6) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 174
+[INFO]    [SIMULATOR]: Current position is: (0,-5) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 175
+[INFO]    [SIMULATOR]: Current position is: (0,-4) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 176
+[INFO]    [SIMULATOR]: Current position is: (0,-3) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 177
+[INFO]    [SIMULATOR]: Current position is: (0,-2) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 178
+[INFO]    [SIMULATOR]: Current position is: (-1,-2) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 179
+[INFO]    [SIMULATOR]: Current position is: (-1,-1) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 180
+[INFO]    [SIMULATOR]: Current position is: (-1,0) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 181
+[INFO]    [SIMULATOR]: Current position is: (-1,1) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 182
+[INFO]    [SIMULATOR]: Current position is: (-1,2) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 183
+[INFO]    [SIMULATOR]: Current position is: (-2,2) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 184
+[INFO]    [SIMULATOR]: Current position is: (-1,2) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 185
+[INFO]    [SIMULATOR]: Current position is: (-1,1) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 186
+[INFO]    [SIMULATOR]: Current position is: (-1,0) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 187
+[INFO]    [SIMULATOR]: Current position is: (-2,0) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 188
+[INFO]    [SIMULATOR]: Current position is: (-2,-1) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 189
+[INFO]    [SIMULATOR]: Current position is: (-2,-2) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 190
+[INFO]    [SIMULATOR]: Current position is: (-2,-3) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 191
+[INFO]    [SIMULATOR]: Current position is: (-1,-3) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 192
+[INFO]    [SIMULATOR]: Current position is: (-1,-4) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 193
+[INFO]    [SIMULATOR]: Current position is: (-1,-5) and chosen step is: N
+[INFO]    [SIMULATOR]: This is step number: 194
+[INFO]    [SIMULATOR]: Current position is: (-1,-6) and chosen step is: W
+[INFO]    [SIMULATOR]: This is step number: 195
+[INFO]    [SIMULATOR]: Current position is: (-2,-6) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 196
+[INFO]    [SIMULATOR]: Current position is: (-2,-5) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 197
+[INFO]    [SIMULATOR]: Current position is: (-2,-4) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 198
+[INFO]    [SIMULATOR]: Current position is: (-2,-3) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 199
+[INFO]    [SIMULATOR]: Current position is: (-2,-2) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 200
+[INFO]    [SIMULATOR]: Current position is: (-2,-1) and chosen step is: S
+[INFO]    [SIMULATOR]: This is step number: 201
+[INFO]    [SIMULATOR]: Current position is: (-2,0) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 202
+[INFO]    [SIMULATOR]: Current position is: (-1,0) and chosen step is: E
+[INFO]    [SIMULATOR]: This is step number: 203
+[INFO]    [SIMULATOR]: Current position is: (0,0) and chosen step is: F
+[INFO]    [SIMULATOR]: 
+
+ --- CORE EXECUTION OF THE SIMULATION IS DONE --- 
+ --- NOW REPORTING THE TASK --- 
+
+[INFO]    [SIMULATOR]: Total steps: 203
+[INFO]    [SIMULATOR]: FINISHED
+[INFO]    [SIMULATOR]: Robot final location: Docking station
+[INFO]    [SIMULATOR]: Score: 803
+[INFO]    [SIMULATOR]: Total dirt left: 2
+[INFO]    [SIMULATOR]: Points that were cleaned entirely: 
+(1,-6)
+(5,-1)
+(2,-9)
+(7,-1)
+(6,0)
+(5,-3)
+(7,-6)
+
+[INFO]    [SIMULATOR]: Points that were cleaned but not entirely: 
+
+[INFO]    [SIMULATOR]: Dirty points we did not step on: 
+(6,-7)
+
+[INFO]    [SIMULATOR]: ---------- END OF REPORT ----------
+[INFO]    [SIMULATOR]: 
+

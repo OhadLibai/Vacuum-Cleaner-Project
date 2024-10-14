@@ -1,0 +1,18 @@
+2-shared condo
+MaxSteps = 139
+MaxBattery = 63
+Rows = 13
+Cols = 23
+WWWWWWWWWWWWWWWWWWWWWWW
+W  3    6   4        2W
+W   7      WW         W
+W W        W        5 W
+W1                    W
+W W 2  5W         9   W
+W  W 1                W
+W        W       9   WW
+W     6      D 7    W6W
+W    W  4   77        W
+W                    WW
+W  W     9            W
+WWWWWWWWWWWWWWWWWWWWWWW

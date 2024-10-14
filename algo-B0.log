@@ -1,0 +1,110 @@
+[INFO]    [ALGORITHM]: At the dock, searching new spot to clean before deciding to charge
+[INFO]    [ALGORITHM]: There is still nodes to handle, start charging (to full battery)
+[INFO]    [ALGORITHM]: At (-1,0) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-2,0) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-3,0) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-4,0) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-5,0) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-6,0) searching for new spot to clean
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-7,0) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -7,0
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-7,0) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -7,0
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-7,0) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -7,0
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-7,0) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -7,0
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-7,0) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -7,0
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-7,0) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -7,0
+[INFO]    [ALGORITHM]: At (-7,0) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-8,0) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-9,0) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-10,0) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-11,0) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-12,0) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-12,-1) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-12,-2) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-12,-3) searching for new spot to clean
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-12,-4) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -12,-4
+[INFO]    [ALGORITHM]: At (-12,-4) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-12,-5) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-12,-6) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-12,-7) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-11,-7) searching for new spot to clean
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-10,-7) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -10,-7
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-10,-7) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -10,-7
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-10,-7) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -10,-7
+[INFO]    [ALGORITHM]: At (-10,-7) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-9,-7) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-8,-7) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-7,-7) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-6,-7) searching for new spot to clean
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-5,-7) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -5,-7
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-5,-7) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Cleaning spot conditions does not satisfied therfore returning to dock from: (-5,-7)
+[INFO]    [ALGORITHM]: At the dock, searching new spot to clean before deciding to charge
+[INFO]    [ALGORITHM]: There is still nodes to handle, start charging (to full battery)
+[INFO]    [ALGORITHM]: At (0,-1) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-1,-1) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-2,-1) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-3,-1) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-3,-2) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-4,-2) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-5,-2) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-6,-2) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-7,-2) searching for new spot to clean
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-8,-2) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -8,-2
+[INFO]    [ALGORITHM]: At (-8,-2) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-9,-2) searching for new spot to clean
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-9,-3) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -9,-3
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-9,-3) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -9,-3
+[INFO]    [ALGORITHM]: At (-9,-3) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-10,-3) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-10,-4) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-11,-4) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-10,-5) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-10,-6) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-11,-6) searching for new spot to clean
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-9,-6) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -9,-6
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-9,-6) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -9,-6
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-9,-6) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -9,-6
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-9,-6) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -9,-6
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-9,-6) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -9,-6
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-9,-6) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -9,-6
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-9,-6) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -9,-6
+[INFO]    [ALGORITHM]: At (-9,-6) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-8,-6) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-7,-6) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-6,-6) searching for new spot to clean
+[INFO]    [ALGORITHM]: At (-5,-6) searching for new spot to clean
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-5,-7) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -5,-7
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-5,-7) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -5,-7
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-5,-7) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -5,-7
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-5,-7) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -5,-7
+[INFO]    [ALGORITHM]: Check if we can clean spot: (-5,-7) with respect to the conditions of the program
+[INFO]    [ALGORITHM]: Decided to clean -5,-7
+[INFO]    [ALGORITHM]: At (-5,-7) searching for new spot to clean
+[INFO]    [ALGORITHM]: Returning to dock from: (-5,-7)
+[INFO]    [ALGORITHM]: At the dock, searching new spot to clean before deciding to charge
+[INFO]    [ALGORITHM]: Signaling to nextStep that remaining dirts are out of reach

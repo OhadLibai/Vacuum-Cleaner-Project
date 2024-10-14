@@ -1,0 +1,20 @@
+C++ Course, Vacuum Cleaner Project
+Assignment 3:
+Why We Are Entitled With A Bonus:
+ 
+-> We created a log file for each running task of algo-simulator pair, so the execution can be 
+   detailed and traced verbosely: 
+    - Logger provides statistics of cleaned points during the simulation and at the end of it.
+    - Described algo decisions and movements across the running simulation.
+    - And more
+
+-> UML diagram
+-> Automated tools for testing - input files generator that creates house layouts 
+
+-> Appealing for bonus for the implementation of the algoritms:
+    - We have an algorithm base class that the two algos polymorficate it, i.e
+      implementation of algorithm section is using polymorphism. The two submitted algos are sharing code,
+      almost everything is layed down in the base class. As one can observe - the two algos we use
+      in the code for running simulations of houses have only 1 function they implement!
+     
+

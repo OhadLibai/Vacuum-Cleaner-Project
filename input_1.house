@@ -1,0 +1,19 @@
+1-niv house
+MaxSteps = 205
+MaxBattery = 67
+Rows = 14
+Cols = 13
+WWWWWWWWWWWWW
+W    8      W
+WW  W    W  W
+W W      2 WW
+W   6     4WW
+W        W  W
+W         W W
+W       3   W
+W           W
+W       5W4 W
+W  D     7  W
+WW  W       W
+W       W   W
+WWWWWWWWWWWWW

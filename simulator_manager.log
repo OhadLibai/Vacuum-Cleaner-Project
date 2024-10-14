@@ -1,0 +1,18 @@
+[INFO]    [SIMULATOR_MANAGER]: Finished simulation for house: ./input_2.house with algorithm: algo_B at 2024-08-26 00:10:45
+Elapsed time: 0.00277925 seconds
+
+[INFO]    [SIMULATOR_MANAGER]: Finished simulation for house: ./input_2.house with algorithm: algo_A at 2024-08-26 00:10:45
+Elapsed time: 0.00207379 seconds
+
+[INFO]    [SIMULATOR_MANAGER]: Finished simulation for house: ./input_1.house with algorithm: algo_B at 2024-08-26 00:10:45
+Elapsed time: 0.00377601 seconds
+
+[INFO]    [SIMULATOR_MANAGER]: Finished simulation for house: ./input_1.house with algorithm: algo_A at 2024-08-26 00:10:45
+Elapsed time: 0.00251552 seconds
+
+[INFO]    [SIMULATOR_MANAGER]: Finished simulation for house: ./input_0.house with algorithm: algo_B at 2024-08-26 00:10:45
+Elapsed time: 0.00378193 seconds
+
+[INFO]    [SIMULATOR_MANAGER]: Finished simulation for house: ./input_0.house with algorithm: algo_A at 2024-08-26 00:10:45
+Elapsed time: 0.00434156 seconds
+
